@@ -13,10 +13,10 @@ From a local copy of this folder, run these commands in Claude Code:
 /plugin install paper-to-bullets@Yg-skills
 ```
 
-From a GitHub repository that contains this folder at its root:
+From GitHub:
 
 ```
-/plugin marketplace add <owner>/<repo>
+/plugin marketplace add yonigrinshpun1-hue/paper-to-bullets
 /plugin install paper-to-bullets@Yg-skills
 ```
 
