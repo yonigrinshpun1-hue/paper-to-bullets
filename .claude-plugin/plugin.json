@@ -1,0 +1,6 @@
+{
+  "name": "paper-to-bullets",
+  "version": "1.0.0",
+  "description": "Turn a paper into six bullets: title, academic field, question, method, result, limitation.",
+  "keywords": ["papers", "research", "summary", "triage"]
+}
