@@ -1,0 +1,13 @@
+{
+  "name": "Yg-skills",
+  "owner": {
+    "name": "Yg-skills"
+  },
+  "plugins": [
+    {
+      "name": "paper-to-bullets",
+      "source": "./",
+      "description": "Turn a paper into six bullets: title, academic field, question, method, result, limitation."
+    }
+  ]
+}
